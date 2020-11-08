@@ -11,6 +11,7 @@ exports.run = async(client, message) => {
             !stop - Stop playing music
             !volume <value> - adjust volume of the music
             !queue - to see the full song queue
+            !bot-info . to see the full bot-info
             CREATED BY MangoFuhrer#0758
             `,
             color: 'GREEN'
